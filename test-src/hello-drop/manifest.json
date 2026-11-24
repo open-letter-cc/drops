@@ -1,0 +1,10 @@
+{
+  "id": "hello-drop",
+  "name": "Hello Drop",
+  "version": "0.1.0",
+  "privilege": "unprivileged",
+  "net": [],
+  "entry": "index.html",
+  "cover": "cover.svg",
+  "developer": "1.3.6.1.4.1.67483.3.1"
+}

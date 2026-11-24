@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <rect x="8" y="8" width="384" height="584" rx="28" fill="#1e2230" stroke="#2E7DB5" stroke-width="4"/>
+  <rect x="48" y="120" width="304" height="304" rx="24" fill="#2E7DB5"/>
+  <circle cx="200" cy="272" r="80" fill="#fff" opacity="0.9"/>
+  <text x="200" y="510" text-anchor="middle" font-family="system-ui, sans-serif" font-size="40" font-weight="700" fill="#f3ecdf">Swatch Drop</text>
+</svg>

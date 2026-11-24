@@ -1,0 +1,16 @@
+/* Copyright 2026 Thomas Christopher Nevin
+   SPDX-License-Identifier: LicenseRef-OpenLetter-Enterprise
+
+   host/EXP-host_breakpoints keyed_on_window_class: every rule keys on the
+   root's data-window / data-orientation, pushed by the host for the
+   desktop window the part is in; never on @media of the part's own box.
+   A part's own sheet reads the custom properties. */
+
+:root { --window-columns: 3; --window-gap: 8px; --window-text: 14px; --window-stack: row; }
+:root[data-window="medium"] { --window-columns: 2; --window-gap: 6px; --window-text: 14px; --window-stack: row; }
+:root[data-window="compact"] { --window-columns: 1; --window-gap: 4px; --window-text: 16px; --window-stack: column; }
+:root[data-orientation="portrait"] { --window-stack: column; }
+
+/* host/EXP-host_breakpoints hidden_never_drawn: hidden is never drawn, whatever
+   display a part's own sheet gives the element. Here once; no part restates it. */
+[hidden] { display: none !important; }
