@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "hello-drop",
+    "version": "0.1.0",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/hello-drop.svg"
+  },
+  {
+    "id": "swatch-drop",
+    "version": "0.1.0",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/swatch-drop.svg"
+  },
+  {
+    "id": "notes-drop",
+    "version": "0.1.0",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/notes-drop.svg"
+  },
+  {
+    "id": "checkers",
+    "version": "0.1.9",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/checkers.svg"
+  },
+  {
+    "id": "holdem",
+    "version": "0.1.6",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/holdem.svg"
+  },
+  {
+    "id": "alice-coloring",
+    "version": "0.1.6",
+    "developer": "1.3.6.1.4.1.67200.3.1",
+    "listed": "2026-11-24",
+    "free": true,
+    "release": "https://github.com/open-letter-cc/drops/releases/download/drops-2026-11-24/alice-coloring.svg"
+  }
+]
